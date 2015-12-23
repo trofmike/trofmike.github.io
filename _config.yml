@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://trofmike.github.io
+title: Mikhail Trofimov's blog
+tagline: A log of entrepreneurs life
+description: My awesome new blog
+paginate: 5
