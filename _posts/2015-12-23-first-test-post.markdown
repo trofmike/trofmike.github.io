@@ -4,7 +4,7 @@ title: First test post
 layout: post
 ---
 # title
-text
+text edit
 
 ## subtitle
 text
